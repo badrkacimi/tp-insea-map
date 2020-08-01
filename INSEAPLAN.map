@@ -1,0 +1,25 @@
+<img src="Image sans titre.xcf" width="925" height="505" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:BADR KACIMI Specter -->
+<area shape="poly" coords="545,272,599,298,536,366,487,331" href="TerrainFoot.html" />
+<area shape="poly" coords="446,265,444,264,513,301,485,331,422,296" href="TerrainBasket.html" />
+<area shape="poly" coords="644,302,663,312,543,438,527,425" href="C:\DW_BADR_CHIMI\mapinsea\BatimentA.html" />
+<area shape="poly" coords="387,309,520,381,474,448,330,359" href="C:\DW_BADR_CHIMI\mapinsea\Resto.html" />
+<area shape="poly" coords="687,236,746,267,693,311,630,270" href="C:\DW_BADR_CHIMI\mapinsea\BatimentE.html" />
+<area shape="poly" coords="746,301,765,315,648,443,625,430" href="C:\DW_BADR_CHIMI\mapinsea\BatimentB.html" />
+<area shape="poly" coords="861,319,912,354,873,399,804,343" href="C:\DW_BADR_CHIMI\mapinsea\BatimentD.html" />
+<area shape="poly" coords="776,406,837,442,798,483,717,434" href="C:\DW_BADR_CHIMI\mapinsea\BatimentC.html" />
+<area shape="poly" coords="198,157,217,177,157,222,138,204" href="C:\DW_BADR_CHIMI\mapinsea\Centredocument.html" />
+<area shape="poly" coords="541,378,584,330,572,358" href="C:\DW_BADR_CHIMI\mapinsea\Buvette.html" />
+<area shape="poly" coords="602,321,609,311,612,321" href="C:\DW_BADR_CHIMI\mapinsea\Mjid.html" />
+<area shape="poly" coords="587,213,635,242,646,216,602,189" href="C:\DW_BADR_CHIMI\mapinsea\NvFoyer.html" />
+<area shape="poly" coords="571,222,618,254,598,281,540,251" href="C:\DW_BADR_CHIMI\mapinsea\AmphiGHAZALI.html" />
+<area shape="poly" coords="617,373,635,381,597,421,580,405" href="C:\DW_BADR_CHIMI\mapinsea\BANCS.html" />
+<area shape="poly" coords="173,221,236,259,269,224,220,183" href="C:\DW_BADR_CHIMI\mapinsea\Biblio.html" />
+<area shape="poly" coords="13,131,34,149,214,18,204,1" href="C:\DW_BADR_CHIMI\mapinsea\Tram.html" />
+</map>

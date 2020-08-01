@@ -1,0 +1,165 @@
+Droit:
+On appelle « l'état de droit » celui qui a accepté de se soumettre au droit, c'est-à-dire au contrôle des tribunaux. Il a pour assise de la séparation des pouvoirs qui a pour objectif d'éviter que les détenteurs du pouvoir n'en abusent (c'est une technique d'aménagement du pouvoir).
+
++sens du mot droit
+« Le mot droit est le plus général qui soit. »
+Il peut avoir plusieurs sens. Mais le premier sens qui surgit à l'esprit et qui est enraciné dans l'imaginaire populaire et que « le droit est une règle, une norme. L'étymologie du mot droit confirme ce sens comme étant le premier pris dans sa racine, le mot évoque l'idée de correction, de rectitude. Est droit ce qui est correct pour avoir été ajusté à la règle. Tout comme est gauche ou maladroit « ce qui n'est point correct pour n'avoir pas été établi en conformité de la norme.
+
++Le droit objectif : c'est un ensemble de règles régissant les relations (sociales, économiques et autres) de personnes vivant en société et dont la violation est sanctionnée par une contrainte émanant de l'autorité publique 
+>>Exemples : le droit marocain, le droit égyptien, le droit américain
+
++Le droit subjectif : c'est la prérogative reconnue à une personne pour faire ou exiger quelque chose en application d'une règle de droit objectif en bénéficiant de la force publique 
+>>Exemple : le droit pour le créancier d'exiger le paiement de sa créance (la créance peut être d'origine contractuelle ou létale (délictuelle) ; le droit d'un propriétaire de faire évacuer la personne qui occupe illégalement un local lui appartenant ; la victime d'une diffamation d'exiger du responsable la réparation du dommage causé,...
+
+L'application du droit objectif donne, entre autres, naissance aux droits subjectifs.
+
+Le droit et l'ensemble des règles coercitives ayant pour but d'établir l'ordre et la justice dans la société.
+
+trois caractères principaux résultent de cette définition :
+1°) Caractère normatif.2) Caractère général et impersonnel.3°) Caractère coercitif.
+
++critères de distinction entre droit privé et droit public:
+La différence d'objet - Critère de la spécificité de la puissance publique 
++Intérêt de la distinction entre droit public et droit privé:
+
+\ Multiplicité des branches de droit.
+Les disciplines relevant du droit public
+Les disciplines de droit privé
+les droits mixtes
+
+/Les Sources du droit
+Les sources  principales:
+       - La constitution;	
+        - La loi; 
+        - Le règlement. 
+Les sources  secondaires : 
+       - La jurisprudence; 	
+       - La doctrine; 
+       - La coutume.  
+  Les sources supérieurs :
+       - La constitution.
+       - Les traités et accords internationaux.
+Les sources formelles : 
+        - La loi. 
+        - Le règlement. 
+        - Les conventions collectives. 
+Les sources non formelles : 
+       - La jurisprudence – La doctrine – La coutume.  
+
+Le règlement : 
+ un acte juridique de portée générale et impersonnelle pris par les autorités exécutives.
+ L’exercice du pouvoir réglementaire relève de la compétence du Gouvernement « le Premier ministre et les ministres ».   
+ Article 63 de la constitution précise que « le Premier ministre exerce le pouvoir réglementaire. Les actes réglementaires du Premier ministre sont contresignés par les ministres chargés de leurs exécutions « .
+On peut distinguer deux types de règlements : 
+  1- Le règlement qui précise les lois et les modalités de leur application car  « la loi contient des dispositions vagues et générales ».  
+ 2- le règlement « autonome » qui ne relève pas de compétences du parlement.    
+Les règlements nationaux et les règlements locaux : 
+1- Au niveau national : le règlement peut prendre la forme d’un Dahir royal ou décret  « le Premier ministre » ou arrêté « les ministres ». 
+2- Au niveau local: - Dans le cadre de la déconcentration; les règlements sont pris par le gouverneur.  
+
+1- La loi : 
+ La loi  est un acte voté par le parlement et promulgué par le Roi.
+ La loi est constituée de l’ensemble des textes législatives. 
+ Projet de loi émane du gouvernement.
+ proposition de loi émane du parlement « groupe parlementaire ». 
+1-1 : Les lois organiques : 
+Elles précisent les applications des articles de la constitution « le droit de grève ».
+ Elles fixent les modalités d’organisation et de fonctionnements des institutions et des pouvoirs publics. 
+ Les lois organiques ont une force juridique supérieure à celle des lois ordinaires. 
+      1-2 : Les lois ordinaires : 
+ Le domaine de loi ordinaire est bien déterminé par la constitution. 
+L’intervention du pouvoir législatif en la matière est fixée par la constitution.   
+ Les autres secteurs appartiennent au pouvoir réglementaire « le pouvoir exécutif : le gouvernement ».
+ Relève du domaine de la loi :  
+  - Le statut des magistrats; 
+  - Le statut général de la fonction publique;
+  - le régime électoral des assemblées et conseils des collectivités locales; 
+  - La création des établissements publics; 
+  - la nationalisation d’entreprises et les transferts d’entreprises du secteur public au secteur privé. 
+
+Les sources informelles :
+1- La jurisprudence : 
+Le terme jurisprudence signifie l’ensemble des décisions de justices rendues par les tribunaux.   
+ L’interprétation de la loi et son application dépend de la jurisprudence. 
+ les jugements des tribunaux créent des précédents engendrant des nouvelles normes.  
+ La jurisprudence a une valeur normative. 
+   2- La doctrine : 
+La doctrine est définit comme l’ensemble des travaux consacrés à l’étude du droit.
+Elle est composé des opinions des spécialistes du droit « magistrats; notaires; avocats; enseignants; juristes d’entreprises; etc ». 
+Ces opinions et ces travaux des spécialistes du droit n’ont pas une force juridique. 
+ Ils ne s’imposent pas aux juges; mais ils ont une influence à l’égard des juges et du législateur
+    3- La coutume : 
+ La coutume est la source la plus ancienne du droit.
+La coutume ne provient pas de l’Etat mais des pratiques spontanées de la société.  
+ C’est une règle de droit non écrite issue d’une pratique générale prolongée dans le temps et observée comme obligatoire.  
+
+L’abrogation des lois : 
+
+•L’abrogation expresse 
+•L’abrogation tacite
+•L’abrogation par désuétude 
+
+contrôle de constitutionnalité des lois?
+    On entend par constitutionalité des lois, leur conformité à la constitution. La constitution étant une norme supérieure interne, toutes les autres règles juridiques doivent être conformes à ses principes et dispositions, sachant que toute loi mauvaise n’est pas nécessairement anticonstitutionnelle, et le constitutionalisme ne doit pas de réduire à une technique, il doit être un art.
+L’autorité de la loi ne doit pas être discutée devant les juridictions de droit commun. Cette exigence découle directement du principe fondamental de la séparation des pouvoirs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

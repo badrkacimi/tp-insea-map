@@ -1,0 +1,7 @@
+PHP
+1-Lecture et exploitation d'un fichier XLS
+2-Creation d'un fichier XML a partir d'un repertoire d'image
+3-Creation d'un table(s) sql a partir d'une XML, XLS
+4-La multilang dans les sites web
+5-
+6- 
